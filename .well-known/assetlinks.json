@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ilya221221rr_sys.twa",
+        "sha256_cert_fingerprints": ["7F:0E:49:10:B0:B9:A9:22:EE:8E:FF:52:26:B5:AC:52:15:96:13:83:01:8B:38:7F:D7:39:6E:DD:98:3E:B6:56"]
+      }
+    }]
 
